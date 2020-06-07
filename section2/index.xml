@@ -11,5 +11,14 @@
 	<atom:link href="https://aaryahiv.github.io/section2/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Community Service</title>
+      <link>https://aaryahiv.github.io/section2/myarticle1/</link>
+      <pubDate>Mon, 18 May 2020 10:51:20 -0700</pubDate>
+      
+      <guid>https://aaryahiv.github.io/section2/myarticle1/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
