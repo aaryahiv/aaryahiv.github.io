@@ -3,6 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://aaryahiv.github.io/section3/teaching-coding/</loc>
+    <lastmod>2020-05-24T11:57:00-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://aaryahiv.github.io/section3/myblog1/</loc>
+    <lastmod>2020-05-18T10:51:53-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://aaryahiv.github.io/section3/</loc>
     <lastmod>2020-05-18T10:51:43-07:00</lastmod>
     <changefreq>monthly</changefreq>

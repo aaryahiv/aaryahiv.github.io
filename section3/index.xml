@@ -11,5 +11,24 @@
 	<atom:link href="https://aaryahiv.github.io/section3/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Teaching Coding</title>
+      <link>https://aaryahiv.github.io/section3/teaching-coding/</link>
+      <pubDate>Sun, 24 May 2020 11:57:00 -0700</pubDate>
+      
+      <guid>https://aaryahiv.github.io/section3/teaching-coding/</guid>
+      <description>I have been teaching children about basic coding skills and games at a local community center.</description>
+    </item>
+    
+    <item>
+      <title>Dog Walking</title>
+      <link>https://aaryahiv.github.io/section3/myblog1/</link>
+      <pubDate>Mon, 18 May 2020 10:51:53 -0700</pubDate>
+      
+      <guid>https://aaryahiv.github.io/section3/myblog1/</guid>
+      <description>Service
+Considering the difficult times during this global pandemic and lockdown, I have decided to provide help and service to ones with dogs. Any person or families in which walking the dog is a difficult task right now, I am here to help. With my prior and current experience of living with a dog and knowing how to handle many dogs, I will be able to walk the dogs. Though I have certain policies as per handling the dogs and their nature, I hope that this will bring attention to families with dogs in need of help and assistance.</description>
+    </item>
+    
   </channel>
 </rss>
