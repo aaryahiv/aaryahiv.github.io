@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Home on Home</title>
-    <link>https://aaryahiv.github.io/</link>
-    <description>Recent content in My Home on Home</description>
+    <title>About Aaryahi on Home</title>
+    <link>https://aaryahiv.github.io/aboutme/</link>
+    <description>Recent content in About Aaryahi on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 May 2020 10:50:31 -0700</lastBuildDate>
     
-	<atom:link href="https://aaryahiv.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aaryahiv.github.io/aboutme/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
